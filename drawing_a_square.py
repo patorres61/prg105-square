@@ -8,4 +8,7 @@ def square(t):
         t.lt(90)
 
 square(bob)
+bob.hideturtle()
 turtle.mainloop()
+
+turtle.done()
